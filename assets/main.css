@@ -15,7 +15,7 @@ html {
   font-size: 16px; }
   @media (min-width: 600px) {
     html {
-      font-size: 16px; } }
+      font-size: 18px; } }
 
 body {
   -webkit-text-size-adjust: 100%; }
@@ -52,6 +52,10 @@ img {
 
 td {
   vertical-align: top; }
+
+.show-category {
+  color: #4a9ae1;
+  font-weight: 700; }
 
 pre,
 code {
@@ -95,6 +99,7 @@ pre code {
   .post-info {
     color: #aaa;
     font-family: "Nanum Gothic", Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
+    font-size: 0.9rem;
     letter-spacing: 0.5px;
     text-align: center; }
     .post-info span {
