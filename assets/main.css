@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
   color: #353535;
-  font-family: "Nanum Gothic", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
   line-height: normal; }
 
 a {
@@ -55,6 +55,7 @@ td {
 
 .show-category {
   color: #4a9ae1;
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
   font-weight: 700; }
 
 pre,
@@ -106,7 +107,7 @@ pre code {
       font-style: italic; }
   .post-title {
     color: #353535;
-    font-family: "Nanum Gothic", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: "Nanum Gothic", "Libre Baskerville", "Times New Roman", Times, serif;
     font-size: 2rem;
     margin: 1rem 0;
     text-align: center; }
@@ -125,7 +126,7 @@ pre code {
   .post img + em {
     color: #aaa;
     display: block;
-    font-family: "Nanum Gothic", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center; }
@@ -430,7 +431,8 @@ footer,
       opacity: 1; }
   .nav a {
     color: #555;
-    font-family: "Nanum Gothic", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif; }
+    font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 700; }
 
 @media (min-width: 600px) {
   .nav-container {
@@ -463,8 +465,9 @@ footer {
     -moz-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     color: #555;
-    font-family: "Nanum Gothic", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 1.1rem;
+    font-weight: 700;
     opacity: .6; }
     .pagination .top:hover {
       opacity: 1; }
@@ -498,7 +501,7 @@ footer {
 .catalogue-title {
   color: #353535;
   display: block;
-  font-family: "Nanum Gothic", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: "Nanum Gothic", "Libre Baskerville", "Times New Roman", Times, serif;
   font-size: 2rem;
   font-weight: 700;
   margin: .5rem 0; }
