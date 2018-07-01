@@ -47,6 +47,13 @@
 
     
     <url>
+        <loc>http://http://stollener.com/blog/be-a-programmer-without-procrastination/</loc>
+        <lastmod>2018-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>http://http://stollener.com/blog/2018-global-ad-trends-by-cannes-lions-grand-prix-winners/</loc>
         <lastmod>2018-07-01</lastmod>
         <changefreq>daily</changefreq>
